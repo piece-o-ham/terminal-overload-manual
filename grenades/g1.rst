@@ -1,4 +1,17 @@
 G1 (Grenade)
 ============
 
-TODO
+TODO: Image
+
+TODO: Description
+
+===================   =============================
+Cost                  ---
+Impact Damage         ---
+Impact Impulse        ---
+Splash Damage         40
+Splash Impulse        ---
+Splash Radius         15
+Bypasses              Damage Buffer
+===================   =============================
+

@@ -1,10 +1,18 @@
 G1 (Grenade)
 ============
 
-The G1 is currently the only grenade in the game. All CATs are equipped with a grenade launcher. By default, a grenade can be launched with the middle mouse button.
+TODO: Image
+
+The G1 is currently the only grenade in the game. All CATs are equipped with a grenade launcher.
+If more than one enemy is within the splash radius of a grenade when it explodes, they will both be targeted.
+
+Usage
+-----
+By default, a grenade can be launched with the middle mouse button.
+A grenade can be charged to make the grenade fly farther. After you have launched a grenade, there will be a 5 second delay before you can launch another.
 
 Details
 -------
-
 Splash damage: 40
 Splash radius: 15
+

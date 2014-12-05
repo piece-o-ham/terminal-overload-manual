@@ -18,7 +18,7 @@ Standard CATs have a 25 point damage buffer. The buffer constantly recharges bac
 Damage Damper
 -------------
 
-The damage damper is a CAT's first line of protection. If full, it reduces damage by 50%. The damage reduction decreases in a linear fashion with decreased damage damper levels.
+Standard CATs have a 100 point damage damper, which serves as the CAT's first line of protection against damage. If full, it reduces damage by 50%. The damage reduction decreases in a linear fashion with decreased damage damper levels.
 
 Or to put it another way: The lower your damage damper is, the more damage you take. 
 
@@ -27,7 +27,7 @@ Note: A lot of weapons draw power away from the damage damper when fired, so it'
 Impulse Damper
 --------------
 
-The impulse damper works similar to the damage damper, except reducing impulses instead of damage and reducing impulse by 75% if full. Modules that draw power away from the impulse damper when used are the :doc:`/modules/etherboard` and the :doc:`/modules/xjump`.
+Standard CATs have a 100 point impulse damper, which works similar to the damage damper, except protecting against impulses instead of damage and reducing impulse by up to 75%. Modules that draw power away from the impulse damper when used are the :doc:`/modules/etherboard` and the :doc:`/modules/xjump`.
 
 
 Additional Modules

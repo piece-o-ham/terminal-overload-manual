@@ -1,6 +1,19 @@
-SMG2 (Sub-Machinegun)
-=====================
+SMG2 Sub-Machinegun
+===================
 
-.. image:: /images/smg2.png
+TODO: Image
 
-TODO
+.. .. image:: /images/smg2.png
+
+TODO: Description
+
+===================   ======================
+Cost                  2 pts damage damper
+Impact Damage         15
+Impact Impulse        600
+Splash Damage         ---
+Splash Impulse        ---
+Splash Radius         ---
+Bypasses              ---
+===================   ======================
+

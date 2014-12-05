@@ -14,4 +14,4 @@ License
 The Terminal Overload manual is licensed under the MIT license.
 You can find the full license in the [`LICENSE`](LICENSE) file.
 
-The Terminal Overload code is licensed under the MIT license, while the art is licensed under CC-BY 4.0. You can find the game's full licensing information in the game's [COPYING](https://github.com/fr1tz/terminal-overload/blob/master/COPYING) file.
+The Terminal Overload code is licensed under the MIT license, while the art is licensed under CC-BY 4.0. You can find the game's full licensing information in the game's [`COPYING`](https://github.com/fr1tz/terminal-overload/blob/master/COPYING) file.

@@ -1,4 +1,10 @@
 G1 (Grenade)
 ============
 
-TODO
+The G1 is currently the only grenade in the game. All CATs are equipped with a grenade launcher. By default, a grenade can be launched with the middle mouse button.
+
+Details
+-------
+
+Splash damage: 40
+Splash radius: 15

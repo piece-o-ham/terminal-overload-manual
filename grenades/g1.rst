@@ -13,6 +13,10 @@ A grenade can be charged to make the grenade fly farther. After you have launche
 
 Details
 -------
-Splash damage: 40
-Splash radius: 15
+===============  =====
+Property         Value
+===============  =====
+Splash damage    40
+Splash radius    15
+===============  =====
 
